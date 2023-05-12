@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Commerce.](https://github.com/AdityaChaudhary3/Commerce)
 
-- 🌱 I’m currently learning **JavaScript, React, NextJs**
+- 🌱 I’m currently learning **JavaScript, React, NextJs.**
 
 - 👯 I’m looking to collaborate on **Django Project**
 
